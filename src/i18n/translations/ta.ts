@@ -1,0 +1,81 @@
+export const ta = {
+  // Common
+  app_name: "டீப்அக்ரோ",
+  loading: "ஏற்றுகிறது...",
+  save: "சேமி",
+  cancel: "ரத்து செய்",
+  delete: "நீக்கு",
+  edit: "திருத்து",
+  logout: "வெளியேறு",
+  
+  // Auth
+  login: "உள்நுழை",
+  signup: "பதிவு செய்",
+  email: "மின்னஞ்சல்",
+  password: "கடவுச்சொல்",
+  farmer_name: "விவசாயி பெயர்",
+  phone_number: "தொலைபேசி எண்",
+  location: "இடம்",
+  already_have_account: "ஏற்கனவே கணக்கு உள்ளதா?",
+  dont_have_account: "கணக்கு இல்லையா?",
+  create_account: "கணக்கை உருவாக்கு",
+  
+  // Home
+  home: "முகப்பு",
+  welcome: "டீப்அக்ரோவுக்கு வரவேற்கிறோம்",
+  crop_prediction: "பயிர் முன்னறிவிப்பு",
+  disease_detection: "நோய் கண்டறிதல்",
+  fertilizer_prediction: "உர முன்னறிவிப்பு",
+  ai_assistant: "AI உதவியாளர்",
+  
+  // Profile
+  profile: "சுயவிவரம்",
+  manage_account: "உங்கள் கணக்கை நிர்வகிக்கவும்",
+  edit_profile: "சுயவிவரத்தைத் திருத்து",
+  farm_size: "பண்ணை அளவு",
+  primary_crops: "முதன்மை பயிர்கள்",
+  notifications: "அறிவிப்புகள்",
+  push_notifications: "அறிவிப்புகளை அனுப்பு",
+  receive_alerts: "எச்சரிக்கைகள் மற்றும் புதுப்பிப்புகளைப் பெறுங்கள்",
+  weather_alerts: "வானிலை எச்சரிக்கைகள்",
+  get_weather_warnings: "வானிலை எச்சரிக்கைகளைப் பெறுங்கள்",
+  pest_alerts: "பூச்சி வெடிப்பு எச்சரிக்கைகள்",
+  regional_pest_warnings: "பிராந்திய பூச்சி எச்சரிக்கைகள்",
+  tips_suggestions: "குறிப்புகள் மற்றும் பரிந்துரைகள்",
+  daily_farming_tips: "தினசரி விவசாய குறிப்புகள்",
+  preferences: "விருப்பங்கள்",
+  language: "மொழி",
+  units: "அலகுகள்",
+  metric: "மெட்ரிக்",
+  app_information: "பயன்பாட்டு தகவல்",
+  about_deepagro: "டீப்அக்ரோ பற்றி",
+  help_support: "உதவி மற்றும் ஆதரவு",
+  contact_us: "எங்களை தொடர்பு கொள்ளுங்கள்",
+  contact_phone: "தொலைபேசி",
+  contact_email: "மின்னஞ்சல்",
+  version: "பதிப்பு",
+  
+  // History
+  history: "வரலாறு",
+  your_activity: "உங்கள் செயல்பாட்டு வரலாறு",
+  no_history: "இன்னும் வரலாறு இல்லை",
+  delete_history: "வரலாற்றை நீக்கு",
+  confirm_delete: "இந்த உருப்படியை நீக்க விரும்புகிறீர்களா?",
+  
+  // About
+  about: "பற்றி",
+  about_description: "டீப்அக்ரோ உங்கள் புத்திசாலித்தனமான விவசாய துணை, விவசாயிகள் சிறந்த முடிவுகளை எடுக்க AI தொழில்நுட்பத்தால் இயக்கப்படுகிறது.",
+  our_mission: "எங்கள் நோக்கம்",
+  mission_text: "சிறந்த பயிர் விளைச்சல் மற்றும் நிலையான விவசாய நடைமுறைகளுக்காக விவசாயிகளை அதிநவீன தொழில்நுட்பத்துடன் மேம்படுத்துதல்.",
+  features: "அம்சங்கள்",
+  feature_1: "AI-இயங்கும் பயிர் முன்னறிவிப்பு",
+  feature_2: "படப் பகுப்பாய்வைப் பயன்படுத்தி நோய் கண்டறிதல்",
+  feature_3: "ஸ்மார்ட் உர பரிந்துரைகள்",
+  feature_4: "24/7 AI விவசாய உதவியாளர்",
+  
+  // Features
+  predict_best_crop: "உங்கள் மண்ணுக்கு சிறந்த பயிரை முன்னறிவிக்கவும்",
+  detect_plant_diseases: "தாவர நோய்களை உடனடியாகக் கண்டறியவும்",
+  get_fertilizer_advice: "உர பரிந்துரைகளைப் பெறுங்கள்",
+  ask_farming_questions: "விவசாய கேள்விகளைக் கேளுங்கள்",
+};

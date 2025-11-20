@@ -1,0 +1,81 @@
+export const te = {
+  // Common
+  app_name: "డీప్‌అగ్రో",
+  loading: "లోడ్ అవుతోంది...",
+  save: "సేవ్ చేయండి",
+  cancel: "రద్దు చేయండి",
+  delete: "తొలగించండి",
+  edit: "సవరించండి",
+  logout: "లాగ్అవుట్",
+  
+  // Auth
+  login: "లాగిన్",
+  signup: "సైన్ అప్",
+  email: "ఇమెయిల్",
+  password: "పాస్‌వర్డ్",
+  farmer_name: "రైతు పేరు",
+  phone_number: "ఫోన్ నంబర్",
+  location: "స్థానం",
+  already_have_account: "ఇప్పటికే ఖాతా ఉందా?",
+  dont_have_account: "ఖాతా లేదా?",
+  create_account: "ఖాతాను సృష్టించండి",
+  
+  // Home
+  home: "హోమ్",
+  welcome: "డీప్‌అగ్రోకు స్వాగతం",
+  crop_prediction: "పంట అంచనా",
+  disease_detection: "వ్యాధి గుర్తింపు",
+  fertilizer_prediction: "ఎరువుల అంచనా",
+  ai_assistant: "AI సహాయకుడు",
+  
+  // Profile
+  profile: "ప్రొఫైల్",
+  manage_account: "మీ ఖాతాను నిర్వహించండి",
+  edit_profile: "ప్రొఫైల్‌ను సవరించండి",
+  farm_size: "పొలం పరిమాణం",
+  primary_crops: "ప్రధాన పంటలు",
+  notifications: "నోటిఫికేషన్‌లు",
+  push_notifications: "పుష్ నోటిఫికేషన్‌లు",
+  receive_alerts: "హెచ్చరికలు మరియు నవీకరణలను స్వీకరించండి",
+  weather_alerts: "వాతావరణ హెచ్చరికలు",
+  get_weather_warnings: "వాతావరణ హెచ్చరికలను పొందండి",
+  pest_alerts: "చీడపురుగుల వ్యాప్తి హెచ్చరికలు",
+  regional_pest_warnings: "ప్రాంతీయ చీడపురుగుల హెచ్చరికలు",
+  tips_suggestions: "చిట్కాలు మరియు సూచనలు",
+  daily_farming_tips: "రోజువారీ వ్యవసాయ చిట్కాలు",
+  preferences: "ప్రాధాన్యతలు",
+  language: "భాష",
+  units: "యూనిట్లు",
+  metric: "మెట్రిక్",
+  app_information: "యాప్ సమాచారం",
+  about_deepagro: "డీప్‌అగ్రో గురించి",
+  help_support: "సహాయం మరియు మద్దతు",
+  contact_us: "మమ్మల్ని సంప్రదించండి",
+  contact_phone: "ఫోన్",
+  contact_email: "ఇమెయిల్",
+  version: "వెర్షన్",
+  
+  // History
+  history: "చరిత్ర",
+  your_activity: "మీ కార్యాచరణ చరిత్ర",
+  no_history: "ఇంకా చరిత్ర లేదు",
+  delete_history: "చరిత్రను తొలగించండి",
+  confirm_delete: "మీరు ఈ అంశాన్ని తొలగించాలనుకుంటున్నారా?",
+  
+  // About
+  about: "గురించి",
+  about_description: "డీప్‌అగ్రో మీ తెలివైన వ్యవసాయ సహచరుడు, రైతులు మెరుగైన నిర్ణయాలు తీసుకోవడానికి AI సాంకేతికతతో శక్తివంతం చేయబడింది.",
+  our_mission: "మా లక్ష్యం",
+  mission_text: "మెరుగైన పంట దిగుబడి మరియు స్థిరమైన వ్యవసాయ పద్ధతుల కోసం రైతులను అత్యాధునిక సాంకేతికతతో శక్తివంతం చేయడం.",
+  features: "లక్షణాలు",
+  feature_1: "AI-ఆధారిత పంట అంచనా",
+  feature_2: "చిత్ర విశ్లేషణ ఉపయోగించి వ్యాధి గుర్తింపు",
+  feature_3: "స్మార్ట్ ఎరువుల సిఫార్సులు",
+  feature_4: "24/7 AI వ్యవసాయ సహాయకుడు",
+  
+  // Features
+  predict_best_crop: "మీ నేల కోసం ఉత్తమ పంటను అంచనా వేయండి",
+  detect_plant_diseases: "మొక్కల వ్యాధులను తక్షణమే గుర్తించండి",
+  get_fertilizer_advice: "ఎరువుల సిఫార్సులను పొందండి",
+  ask_farming_questions: "వ్యవసాయ ప్రశ్నలు అడగండి",
+};

@@ -1,0 +1,81 @@
+export const kn = {
+  // Common
+  app_name: "ಡೀಪ್‌ಅಗ್ರೋ",
+  loading: "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+  save: "ಉಳಿಸಿ",
+  cancel: "ರದ್ದುಮಾಡಿ",
+  delete: "ಅಳಿಸಿ",
+  edit: "ಸಂಪಾದಿಸಿ",
+  logout: "ಲಾಗ್ಔಟ್",
+  
+  // Auth
+  login: "ಲಾಗಿನ್",
+  signup: "ಸೈನ್ ಅಪ್",
+  email: "ಇಮೇಲ್",
+  password: "ಪಾಸ್‌ವರ್ಡ್",
+  farmer_name: "ರೈತರ ಹೆಸರು",
+  phone_number: "ಫೋನ್ ಸಂಖ್ಯೆ",
+  location: "ಸ್ಥಳ",
+  already_have_account: "ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?",
+  dont_have_account: "ಖಾತೆ ಇಲ್ಲವೇ?",
+  create_account: "ಖಾತೆ ರಚಿಸಿ",
+  
+  // Home
+  home: "ಮುಖಪುಟ",
+  welcome: "ಡೀಪ್‌ಅಗ್ರೋಗೆ ಸುಸ್ವಾಗತ",
+  crop_prediction: "ಬೆಳೆ ಮುನ್ಸೂಚನೆ",
+  disease_detection: "ರೋಗ ಪತ್ತೆ",
+  fertilizer_prediction: "ಗೊಬ್ಬರ ಮುನ್ಸೂಚನೆ",
+  ai_assistant: "AI ಸಹಾಯಕ",
+  
+  // Profile
+  profile: "ಪ್ರೊಫೈಲ್",
+  manage_account: "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸಿ",
+  edit_profile: "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ",
+  farm_size: "ಕೃಷಿ ಗಾತ್ರ",
+  primary_crops: "ಪ್ರಾಥಮಿಕ ಬೆಳೆಗಳು",
+  notifications: "ಅಧಿಸೂಚನೆಗಳು",
+  push_notifications: "ಪುಶ್ ಅಧಿಸೂಚನೆಗಳು",
+  receive_alerts: "ಎಚ್ಚರಿಕೆಗಳು ಮತ್ತು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
+  weather_alerts: "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆಗಳು",
+  get_weather_warnings: "ಹವಾಮಾನ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಪಡೆಯಿರಿ",
+  pest_alerts: "ಕೀಟ ಪ್ರಕೋಪ ಎಚ್ಚರಿಕೆಗಳು",
+  regional_pest_warnings: "ಪ್ರಾದೇಶಿಕ ಕೀಟ ಎಚ್ಚರಿಕೆಗಳು",
+  tips_suggestions: "ಸಲಹೆಗಳು ಮತ್ತು ಸಲಹೆಗಳು",
+  daily_farming_tips: "ದೈನಂದಿನ ಕೃಷಿ ಸಲಹೆಗಳು",
+  preferences: "ಆದ್ಯತೆಗಳು",
+  language: "ಭಾಷೆ",
+  units: "ಘಟಕಗಳು",
+  metric: "ಮೆಟ್ರಿಕ್",
+  app_information: "ಅಪ್ಲಿಕೇಶನ್ ಮಾಹಿತಿ",
+  about_deepagro: "ಡೀಪ್‌ಅಗ್ರೋ ಬಗ್ಗೆ",
+  help_support: "ಸಹಾಯ ಮತ್ತು ಬೆಂಬಲ",
+  contact_us: "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
+  contact_phone: "ಫೋನ್",
+  contact_email: "ಇಮೇಲ್",
+  version: "ಆವೃತ್ತಿ",
+  
+  // History
+  history: "ಇತಿಹಾಸ",
+  your_activity: "ನಿಮ್ಮ ಚಟುವಟಿಕೆ ಇತಿಹಾಸ",
+  no_history: "ಇನ್ನೂ ಇತಿಹಾಸವಿಲ್ಲ",
+  delete_history: "ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ",
+  confirm_delete: "ನೀವು ಈ ಐಟಂ ಅನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?",
+  
+  // About
+  about: "ಬಗ್ಗೆ",
+  about_description: "ಡೀಪ್‌ಅಗ್ರೋ ನಿಮ್ಮ ಬುದ್ಧಿವಂತ ಕೃಷಿ ಸಂಗಾತಿ, ರೈತರು ಉತ್ತಮ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು AI ತಂತ್ರಜ್ಞಾನದಿಂದ ಚಾಲಿತವಾಗಿದೆ.",
+  our_mission: "ನಮ್ಮ ಉದ್ದೇಶ",
+  mission_text: "ಉತ್ತಮ ಬೆಳೆ ಇಳುವರಿ ಮತ್ತು ಸುಸ್ಥಿರ ಕೃಷಿ ಅಭ್ಯಾಸಗಳಿಗಾಗಿ ರೈತರನ್ನು ಅತ್ಯಾಧುನಿಕ ತಂತ್ರಜ್ಞಾನದೊಂದಿಗೆ ಸಶಕ್ತಗೊಳಿಸುವುದು.",
+  features: "ವೈಶಿಷ್ಟ್ಯಗಳು",
+  feature_1: "AI-ಚಾಲಿತ ಬೆಳೆ ಮುನ್ಸೂಚನೆ",
+  feature_2: "ಚಿತ್ರ ವಿಶ್ಲೇಷಣೆ ಬಳಸಿ ರೋಗ ಪತ್ತೆ",
+  feature_3: "ಸ್ಮಾರ್ಟ್ ಗೊಬ್ಬರ ಶಿಫಾರಸುಗಳು",
+  feature_4: "24/7 AI ಕೃಷಿ ಸಹಾಯಕ",
+  
+  // Features
+  predict_best_crop: "ನಿಮ್ಮ ಮಣ್ಣಿಗೆ ಉತ್ತಮ ಬೆಳೆಯನ್ನು ಮುನ್ಸೂಚಿಸಿ",
+  detect_plant_diseases: "ಸಸ್ಯ ರೋಗಗಳನ್ನು ತಕ್ಷಣ ಪತ್ತೆ ಮಾಡಿ",
+  get_fertilizer_advice: "ಗೊಬ್ಬರ ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ",
+  ask_farming_questions: "ಕೃಷಿ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ",
+};
